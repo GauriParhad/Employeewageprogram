@@ -1,5 +1,7 @@
 public class empwagecomputation {
     public static void main(String[] args){
+        System.out.println("Welcome to Employee wage computation program");
+
         //constants
         int IS_FULL_TIME=1;
         //Computation
